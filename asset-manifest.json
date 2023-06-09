@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/plan_react/static/css/main.decdb0db.css",
+    "main.js": "/plan_react/static/js/main.969789c6.js",
+    "index.html": "/plan_react/index.html",
+    "main.decdb0db.css.map": "/plan_react/static/css/main.decdb0db.css.map",
+    "main.969789c6.js.map": "/plan_react/static/js/main.969789c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.decdb0db.css",
+    "static/js/main.969789c6.js"
+  ]
+}
